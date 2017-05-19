@@ -1,2 +1,5 @@
 # dennisBazanye.github.io
-Files: index.html,style.css,dennis1.jpg
+CV files: 
+#index.html,
+#style.css,
+#dennis1.jpg
