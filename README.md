@@ -1,5 +1,2 @@
 # dennisBazanye.github.io
-CV files: 
-#index.html,
-#style.css,
-#dennis1.jpg
+My simple CV files (version May 2017)
