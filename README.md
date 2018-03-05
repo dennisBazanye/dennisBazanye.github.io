@@ -1,7 +1,7 @@
 # dennisBazanye.github.io
 ## Table of Contents:
-CV files (version May 2017).
+CV files (version March 2018).
 *   Index.html
 *   style.css
 *   dennis1.jpg
-# [LiveDemo](http://dennisBazanye.github.io)
+# [Live CV](http://dennisBazanye.github.io)
