@@ -1,4 +1,4 @@
-# [Live CV](http://dennisBazanye.github.io) dennisBazanye.github.io                 
+# [Live CV](https://denniscv.azurewebsites.net/) denniscv.azurewebsites.net                 
 ## Files:
 *   Index.html
 *   style.css
